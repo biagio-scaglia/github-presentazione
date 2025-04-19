@@ -1,0 +1,21 @@
+# Ren'Py compiled files
+*.rpyc
+*.rpymc
+*.rpa
+
+# Cache
+/cache/
+bytecode.rpyb
+
+# Logs and autosaves
+/log.txt
+/saves/
+persistent
+
+# OS/macOS/Linux/Windows junk
+.DS_Store
+Thumbs.db
+
+# PyCharm / VS Code project files
+.idea/
+.vscode/
