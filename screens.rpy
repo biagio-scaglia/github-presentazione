@@ -351,7 +351,7 @@ screen main_menu():
 
     ## This ensures that any other menu screen is replaced.
     tag menu
-
+    add "bg-presentazione.jpg" at truecenter
     add gui.main_menu_background
 
     ## This empty frame darkens the main menu.
